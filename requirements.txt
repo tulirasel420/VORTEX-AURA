@@ -1,5 +1,5 @@
 python-telegram-bot==20.7
-git+https://github.com/mrgideong/pyquotex.git
+git+https://github.com/cleitonbueno/pyquotex.git
 mplfinance
 pandas
 pandas-ta
