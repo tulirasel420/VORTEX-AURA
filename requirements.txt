@@ -1,8 +1,7 @@
 python-telegram-bot==20.7
-pyquotex
+git+https://github.com/mrgideong/pyquotex.git
 mplfinance
 pandas
 pandas-ta
 pillow
 python-dotenv
-asyncio
