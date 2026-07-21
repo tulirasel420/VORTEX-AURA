@@ -4,4 +4,4 @@ pandas
 pandas-ta
 pillow
 python-dotenv
-https://github.com/K3y-board/pyquotex/archive/refs/heads/main.zip
+aiohttp
