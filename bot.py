@@ -27,7 +27,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 #          CONFIGURATION SETUP
 # ==========================================
 
-API_TOKEN = "8159698797:AAGCcna_LGG3KNRWdjJN3XM6JQQxBm2T9UY"  # Replace with your bot token
+API_TOKEN = "8159698797:AAFtmEz3p9A9XLovLlQ8AkKK1VbP9GYXvsQ"  # Replace with your bot token
 ADMIN_ID = 8280240170  # Replace with your admin ID
 
 # File paths
