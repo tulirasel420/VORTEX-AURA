@@ -1,7 +1,3 @@
 python-telegram-bot==20.7
-mplfinance
-pandas
-pandas-ta==0.3.14b0
-pillow
-python-dotenv
-aiohttp
+Flask==3.0.0
+requests==2.31.0
