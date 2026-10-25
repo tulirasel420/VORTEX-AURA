@@ -10,7 +10,7 @@ REQUIRED_CHANNEL_1_ID   = -1002658285414
 REQUIRED_CHANNEL_1_LINK = "https://t.me/irttradingzone"
 REQUIRED_CHANNEL_2_ID   = -1003789726888
 REQUIRED_CHANNEL_2_LINK = "https://t.me/zebronix_community"
-OPEN_ACCOUNT_LINK = "https://broker-qx.pro/sign-up/?lid=1756662"
+OPEN_ACCOUNT_LINK = "https://broker-qx.pro/sign-up/?lid=1644104"
 
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
